@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Saresp2024.Models.ProfAplicador>
+@{
+    ViewData["Title"] = "Professores";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdProf)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CPF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RG)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DtNascimento)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+                <tr>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.IdProf)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.CPF)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.RG)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.Telefone)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.DtNascimento)
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a class="btn btn-primary" asp-action="CadastrarProfessor">Cadastrar Professor</a>
+</p>
+

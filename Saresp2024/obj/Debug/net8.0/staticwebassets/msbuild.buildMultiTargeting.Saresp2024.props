@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Saresp2024.props" />
+</Project>

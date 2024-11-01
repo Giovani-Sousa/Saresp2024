@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saresp2024", "Saresp2024\Saresp2024.csproj", "{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71C4631-F88C-48F3-AEE3-57C5077E9205}
+	EndGlobalSection
+EndGlobal

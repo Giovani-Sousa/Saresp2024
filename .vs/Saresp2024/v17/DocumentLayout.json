@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\repository\\profaplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\repository\\profaplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\controllers\\profaplicadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\controllers\\profaplicadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\views\\profaplicador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\views\\profaplicador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\views\\profaplicador\\cadastrarprofessor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\views\\profaplicador\\cadastrarprofessor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\repository\\contract\\iprofaplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\repository\\contract\\iprofaplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\models\\profaplicador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\models\\profaplicador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\views\\aluno\\cadastraraluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\views\\aluno\\cadastraraluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|c:\\users\\giova\\documents\\li\u00E7\u00F5es da escola\\ds\\saresp2024\\saresp2024\\repository\\contract\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BD0D2B-17F2-42CE-AE6A-930891DBEA04}|Saresp2024\\Saresp2024.csproj|solutionrelative:saresp2024\\repository\\contract\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\ProfAplicador\\Index.cshtml",
+              "RelativeDocumentMoniker": "Saresp2024\\Views\\ProfAplicador\\Index.cshtml",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\ProfAplicador\\Index.cshtml",
+              "RelativeToolTip": "Saresp2024\\Views\\ProfAplicador\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T02:16:36.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadastrarProfessor.cshtml",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\ProfAplicador\\CadastrarProfessor.cshtml",
+              "RelativeDocumentMoniker": "Saresp2024\\Views\\ProfAplicador\\CadastrarProfessor.cshtml",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\ProfAplicador\\CadastrarProfessor.cshtml",
+              "RelativeToolTip": "Saresp2024\\Views\\ProfAplicador\\CadastrarProfessor.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T02:15:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfAplicadorController.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Controllers\\ProfAplicadorController.cs",
+              "RelativeDocumentMoniker": "Saresp2024\\Controllers\\ProfAplicadorController.cs",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Controllers\\ProfAplicadorController.cs",
+              "RelativeToolTip": "Saresp2024\\Controllers\\ProfAplicadorController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:11:16.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfAplicadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Repository\\ProfAplicadorRepository.cs",
+              "RelativeDocumentMoniker": "Saresp2024\\Repository\\ProfAplicadorRepository.cs",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Repository\\ProfAplicadorRepository.cs",
+              "RelativeToolTip": "Saresp2024\\Repository\\ProfAplicadorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:23:14.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "Saresp2024\\Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Repository\\AlunoRepository.cs",
+              "RelativeToolTip": "Saresp2024\\Repository\\AlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:22:54.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Saresp2024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Saresp2024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T02:22:57.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "Saresp2024\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "Saresp2024\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:02:00.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProfAplicadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Repository\\Contract\\IProfAplicadorRepository.cs",
+              "RelativeDocumentMoniker": "Saresp2024\\Repository\\Contract\\IProfAplicadorRepository.cs",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Repository\\Contract\\IProfAplicadorRepository.cs",
+              "RelativeToolTip": "Saresp2024\\Repository\\Contract\\IProfAplicadorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:22:07.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Saresp2024\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Models\\Aluno.cs",
+              "RelativeToolTip": "Saresp2024\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:07:03.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfAplicador.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Models\\ProfAplicador.cs",
+              "RelativeDocumentMoniker": "Saresp2024\\Models\\ProfAplicador.cs",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Models\\ProfAplicador.cs",
+              "RelativeToolTip": "Saresp2024\\Models\\ProfAplicador.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:31:50.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CadastrarAluno.cshtml",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "RelativeDocumentMoniker": "Saresp2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "RelativeToolTip": "Saresp2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T01:52:50.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "Saresp2024\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "Saresp2024\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T01:49:29.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\appsettings.json",
+              "RelativeDocumentMoniker": "Saresp2024\\appsettings.json",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\appsettings.json",
+              "RelativeToolTip": "Saresp2024\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T01:47:54.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Program.cs",
+              "RelativeDocumentMoniker": "Saresp2024\\Program.cs",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Program.cs",
+              "RelativeToolTip": "Saresp2024\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:47:03.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "Saresp2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\giova\\Documents\\Li\u00E7\u00F5es da Escola\\DS\\Saresp2024\\Saresp2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "RelativeToolTip": "Saresp2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:21:45.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
